@@ -1,0 +1,22 @@
+{
+  "name": "todos",
+  "version": "0.0.0",
+  "homepage": "https://github.com/fluffynuts/ember-todo",
+  "authors": [
+    "Davyd McColl <davydm@gmail.com>"
+  ],
+  "description": "fuxit",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember-data": "~2.0.1",
+    "requirejs": "~2.1.20",
+    "handlebars": "~4.0.2"
+  }
+}
